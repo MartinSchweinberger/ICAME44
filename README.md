@@ -11,4 +11,4 @@ For more information, please contact [Martin Schweinberger](http://www.martinsch
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/ICAME44/main?labpath=notebooks%2FChnEVowels_Part03_Analysis_jupyter.ipynb)
 
-[Click here to start the process]([https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fregex_cb.ipynb](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/ICAME44/main?labpath=notebooks%2FChnEVowels_Part03_Analysis_jupyter.ipynb))
+[Click here to start the process]([https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7829Tutorials/main?labpath=notebooks%2Fregex_cb.ipynb](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MartinSchweinberger/ICAME44/main?labpath=notebooks%2FChnEVowels_Part03_Analysis_jupyter.ipynb)
